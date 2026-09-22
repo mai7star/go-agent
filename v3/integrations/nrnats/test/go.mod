@@ -4,3 +4,4 @@ module github.com/newrelic/go-agent/v3/integrations/test
 go 1.25
 
 replace github.com/newrelic/go-agent/v3/integrations/nrnats v1.0.0 => ../
+
